@@ -2,11 +2,11 @@ const teamMembers = [
     {
         name: "Drake",
         pic: "drake.jpg",
-        genre: "...",
-        album: "...",
-        song: "...",
-        favorite: ["...", "...", "..."],
-        biography: "...",
+        genre: "Rap",
+        album: "Views (2016)",
+        song: "One Dance",
+        favorite: ["Hold On We're Going Home", "Rich Baby Daddy", "Nice For What "],
+        biography: "Drake, orginally named Aubrey Drake Graham, is a Canadian rapper and singer who rose to fame with his hit mixtape 'So Far Gone' and the sucess of his studio albums, becoming a global icon in the music industry. he's known for his catchy hooks, emotional lyrics, and blending of hip-hop with R&B.",
     },
     {
         name: "Taylor Swift",
