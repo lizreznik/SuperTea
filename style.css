@@ -11,7 +11,7 @@ main {
 }
 h1 { 
     text-align: center; 
-    color: white; 
+    color: white !important; 
 }
 .card-header { 
     text-align: center; 
